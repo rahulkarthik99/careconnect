@@ -2,7 +2,8 @@ import { Navbar } from "@/components/Navbar";
 import { ArrowRight, Video, MessageSquare, FileText, Activity } from "lucide-react";
 import { Link } from "wouter";
 import { motion } from "framer-motion";
-import heroImage from "@assets/generated_images/professional_telehealth_doctor_consultation_on_laptop_screen_in_modern_bright_setting.png";
+import heroImage from "@/assets/generated_images/professional_telehealth_doctor_consultation_on_laptop_screen_in_modern_bright_setting.png";
+
 
 export default function Home() {
   return (
