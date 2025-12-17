@@ -2,6 +2,11 @@ import { Navbar } from "@/components/Navbar";
 import { ArrowRight, Video, MessageSquare, FileText, Activity } from "lucide-react";
 import { Link } from "wouter";
 import { motion } from "framer-motion";
+<img
+  src="/generated_images/professional_telehealth_doctor_consultation_on_laptop_screen_in_modern_bright_setting.png"
+  alt="Telehealth Consultation"
+  className="w-full h-auto object-cover"
+/>
 
 
 export default function Home() {
